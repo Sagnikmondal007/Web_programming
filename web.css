@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    background:#b2beb5;
+    padding: 15px 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    
+}
+.menu {
+    display: flex;
+
+}
